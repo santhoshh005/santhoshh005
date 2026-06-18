@@ -67,7 +67,7 @@ I contribute to open source, mentor peers, and continuously grow my skills acros
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,sql,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,bash&theme=dark)](https://skillicons.dev)
 
 **Frontend & Web Dev**
 
@@ -93,14 +93,14 @@ I contribute to open source, mentor peers, and continuously grow my skills acros
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Web Development** | ████████████ Expert | React, Next.js, Node.js, REST APIs, responsive UI, accessibility |
-| **Backend Engineering** | ███████████░ Advanced | API design, database modeling, authentication, server-side logic |
-| **Database Management** | ███████████░ Advanced | PostgreSQL, MongoDB, MySQL, Redis — schema design, query optimization |
-| **Software Design** | ██████████░░ Advanced | OOP, SOLID principles, design patterns, clean architecture |
+| **Web Development** | ███████████░ Advanced | React, Next.js, Node.js, REST APIs, responsive UI, accessibility |
+| **Backend Engineering** | █████████░░░ Proficient | API design, database modeling, authentication, server-side logic |
+| **Database Management** | █████████░░░ Proficient | PostgreSQL, MongoDB, MySQL, Redis — schema design, query optimization |
+| **Software Design** | █████████░░░ Proficient | OOP, SOLID principles, design patterns, clean architecture |
 | **Version Control & CI/CD** | █████████░░░ Proficient | Git workflows, GitHub Actions, automated testing, deployment pipelines |
 | **Browser Extensions** | █████████░░░ Proficient | Chrome Manifest V3, Web Crypto APIs, background scripts, content scripts |
-| **Testing & QA** | ████████░░░░ Proficient | Unit testing, integration testing, test-driven development |
-| **Problem Solving & DSA** | ████████░░░░ Proficient | Algorithms, data structures, competitive programming, system design |
+| **Testing & QA** | █████████░░░ Proficient | Unit testing, integration testing, test-driven development |
+| **Problem Solving & DSA** | █████████░░░ Proficient | Algorithms, data structures, competitive programming, system design |
 
 </div>
 
@@ -281,30 +281,13 @@ Maintained a training pipeline that preprocesses environmental dataset parameter
 - Specializing in Software Engineering and Computer Science fundamentals.
 - Relevant Coursework: Object Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, and Software System Architecture.
 
----
 
-<div align="center">
-
-## ◈ Achievements
-
-</div>
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|:---|
-| 🏆 **LeetCode Top Performer** | Solved 400+ problems · Achieved Knight rating in weekly contests |
-| 🥇 **Hackathon Finalist** | Placed in top 10% at national-level collegiate hackathon for AI project |
-| ⭐ **GitHub Stars** | Open source projects collectively starred by developers across different regions |
-| 🎓 **Academic Standing** | Excellent standing in Integrated M.Tech Software Engineering at VIT |
-
-</div>
 
 ---
 
 <div align="center">
 
-## ◈ Certifications
+## ◈ Achievements and Certifications
 
 </div>
 
@@ -323,22 +306,7 @@ Maintained a training pipeline that preprocesses environmental dataset parameter
 
 </div>
 
----
 
-<div align="center">
-
-## ◈ Coding Profiles
-
-</div>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%7C%20400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/santhoshh005)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%20Top%205-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/santhoshh005)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/santhoshh005)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%20Star%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/santhoshh005)
-
-</div>
 
 ---
 
@@ -351,29 +319,10 @@ Maintained a training pipeline that preprocesses environmental dataset parameter
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshh005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshh005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshh005&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=6D28D9" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ GitHub Trophies
-
-</div>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=santhoshh005&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
