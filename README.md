@@ -318,7 +318,7 @@ Maintained a training pipeline that preprocesses environmental dataset parameter
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshh005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshh005&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
 
 </div>
 
