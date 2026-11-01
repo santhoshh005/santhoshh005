@@ -38,15 +38,15 @@
 ```yaml
 Name        : Sai Santhosh
 Role        : Software Developer & Full-Stack Engineer
-Focus       : Web Development · Full Stack · AI & Data Science · Browser Extensions
-Philosophy  : Write clean, readable code. Transform ideas into seamless digital experiences.
+Focus       : Full-Stack Web Development · AI Tooling · Browser Extensions
+Philosophy  : Write clean, readable code. Build software that solves problems for real people.
 ```
 
-I am a **Software Developer** currently pursuing my **Integrated M.Tech in Software Engineering** at Vellore Institute of Technology (VIT). I am passionate about software development, full-stack engineering, and emerging technologies. I build scalable applications, explore innovative solutions, and transform ideas into seamless digital experiences.
+I am a **Software Developer** currently pursuing my **Integrated M.Tech in Software Engineering** at **Vellore Institute of Technology (VIT)**. I enjoy building full-stack web applications, exploring AI integrations, and creating developer productivity tools.
 
-I enjoy working across the stack, building both frontend interfaces and backend services, and I bring a disciplined engineering approach to every project I touch. I care deeply about **code quality**, **developer experience**, and **building software that actually solves problems** for real people.
+My experience includes building responsive frontends with **React & Next.js**, backend APIs with **Node.js, Express & FastAPI**, and working with **PostgreSQL, Supabase, and MongoDB**. I also have hands-on experience developing Chromium browser extensions and building AI-assisted features with Google Gemini and Whisper.
 
-I contribute to open source, mentor peers, and continuously grow my skills across modern software development practices.
+I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart India Hackathon 2026**), and I prioritize clean code, test coverage, and continuous learning.
 
 <br/>
 
@@ -67,19 +67,19 @@ I contribute to open source, mentor peers, and continuously grow my skills acros
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=typescript,python,javascript,java,cpp,bash&theme=dark)](https://skillicons.dev)
 
-**Frontend & Web Dev**
+**Frontend & Frameworks**
 
-[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,vite,figma&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-**Backend & Databases**
+**Backend, Databases & Cloud**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,supabase,firebase,mongodb,prisma&theme=dark)](https://skillicons.dev)
 
-**Browser Extensions & Development Tools**
+**DevOps & Developer Tools**
 
-[![Tooling](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+[![Tooling](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -91,16 +91,14 @@ I contribute to open source, mentor peers, and continuously grow my skills acros
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Key Highlights |
 |:---|:---:|:---|
-| **Web Development** | ███████████░ Advanced | React, Next.js, Node.js, REST APIs, responsive UI, accessibility |
-| **Backend Engineering** | █████████░░░ Proficient | API design, database modeling, authentication, server-side logic |
-| **Database Management** | █████████░░░ Proficient | PostgreSQL, MongoDB, MySQL, Redis — schema design, query optimization |
-| **Software Design** | █████████░░░ Proficient | OOP, SOLID principles, design patterns, clean architecture |
-| **Version Control & CI/CD** | █████████░░░ Proficient | Git workflows, GitHub Actions, automated testing, deployment pipelines |
-| **Browser Extensions** | █████████░░░ Proficient | Chrome Manifest V3, Web Crypto APIs, background scripts, content scripts |
-| **Testing & QA** | █████████░░░ Proficient | Unit testing, integration testing, test-driven development |
-| **Problem Solving & DSA** | █████████░░░ Proficient | Algorithms, data structures, competitive programming, system design |
+| **Web Development** | ████████░░░░ Proficient | React, Next.js, TypeScript, Tailwind CSS, responsive layouts |
+| **Backend & APIs** | ███████░░░░░ Intermediate | Node.js, Express, FastAPI, RESTful routing, JWT authentication |
+| **Databases & ORM** | ███████░░░░░ Intermediate | PostgreSQL, Supabase, MongoDB, Prisma ORM, basic schema design |
+| **Browser Extensions** | ███████░░░░░ Intermediate | Chrome Manifest V3, content/background scripts, Web Crypto API |
+| **AI Tooling & Integration** | ██████░░░░░░ Working Knowledge | Gemini API (structured outputs), Whisper STT, basic ML models |
+| **Testing & Tooling** | ██████░░░░░░ Working Knowledge | Vitest, Pytest, Git workflows, GitHub Actions, Docker basics |
 
 </div>
 
@@ -112,123 +110,148 @@ I contribute to open source, mentor peers, and continuously grow my skills acros
 
 </div>
 
-<details>
-<summary><b>⟡ &nbsp;SmartFill Browser Extension — AI Form Assistant</b></summary>
+<details open>
+<summary><b>⟡ &nbsp;RoundsAI — Inpatient Oncology Ward Copilot &nbsp;🏆 Health-a-thon 2026</b></summary>
 
 <br/>
 
-> AI-powered form autofill extension that detects online forms, suggests field matches from local profiles, and fills fields only on user request. Profile data is stored encrypted in the browser.
+> AI-powered clinical intelligence copilot for oncology ward rounds — built with a clinical doctor from Victoria Hospital, BMCRI. Processes bedside voice dictation and lab scans into structured clinical notes with automated CTCAE v5.0 toxicity grading.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | TypeScript · React · Vite · Manifest V3 · Web Crypto · PDF.js |
-| **Demo** | [View Edge Addon](https://microsoftedge.microsoft.com/addons/detail/aelekoeomibgicicopockedkjdcdlmoo) |
-| **Security** | Local encrypted profile storage · User-triggered autofill · Sensitive fields blocked by default |
-| **Features** | Smart form field detection · User-triggered autofill (privacy-first) |
+| **Stack** | Next.js 15 · FastAPI · Python · TypeScript · Gemini 2.5 Flash · faster-whisper · Supabase |
+| **Live MVP** | [rounds-ai-umber.vercel.app](https://rounds-ai-umber.vercel.app/) |
+| **Demo Video** | [YouTube Walkthrough](https://youtu.be/Kia1C-a0QLk) |
+| **AI Pipeline** | On-device Whisper STT (zero cloud audio egress) · Gemini Vision OCR · 120+ oncology phonetic normalizer |
+| **Clinical** | CTCAE v5.0 myelosuppression grading · IDSA/ASCO 2018 febrile neutropenia sentinels · Hallucination prevention guards |
+| **Testing** | 134 automated tests across Python (pytest) and TypeScript test suites |
+| **Collaboration** | Co-built with Dr. Amrut S Kadam (BMCRI) and Surya Thejas |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/Rounds_AI) |
+
+</div>
+
+**Key Contributions:** Designed the on-device Whisper transcription pipeline, multimodal Gemini Vision OCR extraction, 120+ oncology phonetic normalizer, and automated test harnesses.
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>⟡ &nbsp;PRPilot — Autonomous AI GitHub App for Code Review</b></summary>
+
+<br/>
+
+> A production GitHub App that automatically reviews pull requests upon opening/syncing, analyzes diffs for security vulnerabilities and architectural anti-patterns, generates structured inline comments, and computes overall risk scores using Google Gemini.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Next.js 16 · React 19 · TypeScript · Supabase · Gemini 3.8 Flash · Octokit |
+| **Security** | HMAC-SHA256 webhook verification · Supabase RLS on every table · Zod-validated AI output · Timing-safe comparisons |
+| **Architecture** | Hybrid serverless: Vercel `waitUntil` for immediate review + GitHub Actions cron fallback · Atomic Postgres rate limiting |
+| **Testing** | Vitest unit tests + Playwright E2E tests |
+| **Features** | Auto-reviews on PR open/sync · Inline comments with risk scores · Multi-model Gemini fallback · Daily quota tracking |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/PR_Pilot) |
+
+</div>
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>⟡ &nbsp;Smart Autofill Assistant — Published on Microsoft Edge Store</b></summary>
+
+<br/>
+
+> Privacy-first Chromium browser extension that detects online forms, suggests field matches from locally encrypted profiles, and fills fields on user request. Published and live on the Microsoft Edge Add-ons Store.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | TypeScript · React · Vite · Manifest V3 · Web Crypto API · PDF.js |
+| **Published** | [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/aelekoeomibgicicopockedkjdcdlmoo) |
+| **Security** | Local AES-GCM encrypted vault · User-triggered autofill · Passwords, OTPs, payment fields blocked |
+| **AI** | Optional Gemini/OpenAI semantic matching (disabled by default, user-configured) |
+| **Features** | Multiple named profiles · Resume/portfolio import · In-page review panel · Safety blocking |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/Smart-Autofill-Assistant) |
 
 </div>
 
-Built with Chrome Extension Manifest V3 architecture, using service workers to run light form parsing. It ensures user privacy by storing profile metadata in encrypted local storage (`Web Crypto API`) and only performing fills upon explicit clicks, reducing autofill-based phishing vectors.
+<br/>
+
+</details>
+
+<details>
+<summary><b>⟡ &nbsp;SkyGuard AI — ML Anomaly Detection for Weather Stations &nbsp;🏆 SIH 2026</b></summary>
+
+<br/>
+
+> AI/ML-driven anomaly detection platform for Indian Meteorological Department (IMD) Automatic Weather Stations. Built for Smart India Hackathon 2026, Problem Statement SIH26073 (Ministry of Earth Sciences).
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | FastAPI · Python · React 18 · Scikit-Learn · Isolation Forest · Autoencoder · Supabase · Docker |
+| **ML Pipeline** | 3-channel fusion (Deterministic QC + Isolation Forest + Autoencoder) · **94.94% F1-Score** |
+| **Explainability** | TreeSHAP feature attribution for root-cause classification (Spike / Frozen / Drift / Comm dropout) |
+| **Features** | Adaptive sensor health scoring [0–100] · Automated value correction · Real-time WebSocket push (<2s) |
+| **Deployment** | Docker Compose · FastAPI + Uvicorn |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/Sky_Guard_AI) |
+
+</div>
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>⟡ &nbsp;E-commerce Web Application — Full Featured Shop</b></summary>
+<summary><b>⟡ &nbsp;PayPilot AI — Agentic Conversational Commerce Platform</b></summary>
 
 <br/>
 
-> A full-featured e-commerce platform offering a seamless shopping experience, interactive product catalog with search & filter, cart management, and a streamlined checkout flow.
+> An autonomous conversational commerce platform where customers discover products via natural language, compare technical specs side-by-side, manage cart items, and complete checkout through Razorpay Standard Checkout with cryptographic verification.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | React · Vite · Tailwind CSS · State Management · Web APIs |
-| **Demo** | [Visit Store](https://e-commerce-web-application-sbmi.vercel.app/) |
-| **UX & Design** | Clean and modern design with smooth UI transitions · Fully responsive checkouts |
-| **Features** | Dynamic product catalog with filtering · Real-time cart updates |
+| **Stack** | React 18 · Vite · Express · TypeScript · Prisma · Supabase · Gemini 2.5 Flash · Razorpay |
+| **Live Demo** | [paypilot-ai-two.vercel.app](https://paypilot-ai-two.vercel.app/) |
+| **AI** | Gemini function calling for semantic product search · Multi-turn conversational cart management |
+| **Payments** | Razorpay Standard Checkout · HMAC-SHA256 server-side verification · Webhook lifecycle handling |
+| **Testing** | 176/176 tests passing across 13 suites (security, session isolation, IDOR prevention) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/PayPilot_AI) |
+
+</div>
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>⟡ &nbsp;Santhosh Storefront — Full-Stack E-commerce Application</b></summary>
+
+<br/>
+
+> A premium full-stack e-commerce application with product catalog, shopping cart, secure multi-step checkout, customer order tracking, and a role-based admin dashboard.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Next.js · Tailwind CSS v4 · Prisma ORM · Supabase PostgreSQL · JWT Auth |
+| **Live Demo** | [e-commerce-web-application-sbmi.vercel.app](https://e-commerce-web-application-sbmi.vercel.app/) |
+| **Features** | Dynamic filtering · Shopping cart & checkout · Customer order tracking · Admin dashboard |
+| **Architecture** | API routes for products, auth, and orders · Auto-seeded demo catalog & admin account |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/E-commerce-Web-Application) |
 
 </div>
-
-Developed with a modular React architecture, utilizing custom hooks for cart management and state persistence. The product catalog features multi-criteria filtration (categories, price ranges) and real-time counter changes for seamless customer shopping.
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>⟡ &nbsp;Blog Platform — Rich Media CMS</b></summary>
-
-<br/>
-
-> A content publishing platform where users can read, write, edit, and categorize blog posts, featuring a distraction-free editing layout and categorization tools.
-
-<div align="center">
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | React · Tailwind CSS · Node.js · Express · MongoDB |
-| **Performance** | Optimized MongoDB queries for post pagination · Markdown parsing |
-| **Features** | Markdown-style rich text writing · Dynamic category sorting · Author dashboard |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/Blog-platform-) |
-
-</div>
-
-Designed a RESTful API with Express and MongoDB to handle blog posts and category relationships. Implemented an authorship workflow with a custom posting dashboard and category filtering, ensuring optimal readability across mobile and desktop devices.
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>⟡ &nbsp;Task Management Platform — Kanban Board Workspace</b></summary>
-
-<br/>
-
-> A productivity app for organizing work, tracking milestones, and categorization using a Kanban board style layout, priority indicators, and persistent local storage.
-
-<div align="center">
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | React · Tailwind CSS · TypeScript · Context API · Local Storage |
-| **Features** | Interactive Kanban board with status columns · Task creation, prioritization & editing |
-| **Data Flow** | State synchronization with React Context · Data persistence via browser localStorage |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/Task-Management-) |
-
-</div>
-
-An interactive workspace allowing users to add checklist tasks, edit task priorities, and drag/move cards across status boards. Fully typed using TypeScript for robust component properties and bug-free state management.
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>⟡ &nbsp;AI Flood Prediction Model — Early Warning Analytics</b></summary>
-
-<br/>
-
-> An AI-based flood prediction model that analyzes rainfall, river level, and historical weather patterns to estimate flood risk and support early warning decisions.
-
-<div align="center">
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · Jupyter Notebook |
-| **Algorithms** | Supervised gradient boosting regression/classification (XGBoost & LightGBM) |
-| **Features** | Flood risk estimation · Historical weather trend parsing · Early warning insights |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/ethical0101/AI-Based-Flood-Prediction-System) |
-
-</div>
-
-Maintained a training pipeline that preprocesses environmental dataset parameters, computes correlation matrices, and optimizes hyperparameters to minimize predictions delay and maximize risk classification precision.
 
 <br/>
 
@@ -242,30 +265,30 @@ Maintained a training pipeline that preprocesses environmental dataset parameter
 
 </div>
 
-**Full-Stack Web Development Intern** &nbsp;·&nbsp; *Thiranex*
+**Web Development Intern** &nbsp;·&nbsp; *InAmigos Foundation (IAF)*  
 `June 2026 – Present`
 
-- Developing responsive full-stack web applications, integrating modern API solutions.
-- Crafting clean, user-centric interfaces.
-- Collaborating on backend routing and state sync flows.
+- Developing and maintaining web applications with clean, responsive UI components.
+- Working on modern frontend interfaces and component integration.
+- Improving client-side responsiveness, accessibility, and cross-browser layouts.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-5B21B6?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4C1D95?style=flat-square&logo=html5&logoColor=white)
+
+---
+
+**Full-Stack Web Development Intern** &nbsp;·&nbsp; *Thiranex*  
+`June 2026 – Present`
+
+- Developing responsive full-stack web applications and integrating RESTful APIs.
+- Crafting clean, user-centric interfaces with React and Tailwind CSS.
+- Collaborating on backend routing, state synchronization, and database integration.
 
 ![React](https://img.shields.io/badge/React-5B21B6?style=flat-square&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-4C1D95?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-3B0764?style=flat-square&logo=mongodb&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-2E0854?style=flat-square&logo=vite&logoColor=white)
-
----
-
-**Web Development Intern** &nbsp;·&nbsp; *InAmigos Foundation (IAF)*
-`June 2026 – Present`
-
-- Developing and maintaining web applications.
-- Working on modern frontend interfaces and component integration.
-- Improving client-side responsiveness and cross-browser layouts.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-5B21B6?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-4C1D95?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
@@ -275,19 +298,35 @@ Maintained a training pipeline that preprocesses environmental dataset parameter
 
 </div>
 
-**Integrated M.Tech in Software Engineering** &nbsp;·&nbsp; *Vellore Institute of Technology (VIT)*
+**Integrated M.Tech in Software Engineering** &nbsp;·&nbsp; *Vellore Institute of Technology (VIT)*  
 `2023 – 2028`
 
 - Specializing in Software Engineering and Computer Science fundamentals.
 - Relevant Coursework: Object Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, and Software System Architecture.
 
-
-
 ---
 
 <div align="center">
 
-## ◈ Achievements and Certifications
+## ◈ Honors & Hackathon Achievements
+
+</div>
+
+<div align="center">
+
+| Milestone / Recognition | Focus Area | Context | Year |
+|:---|:---|:---|:---:|
+| **Health-a-thon 2026** | Healthcare AI & Decision Support | Built RoundsAI — oncology copilot with Victoria Hospital doctor | 2026 |
+| **Smart India Hackathon (SIH 2026)** | AI Telemetry & Explainable ML | Built SkyGuard AI — 94.94% F1 anomaly detection for IMD AWS | 2026 |
+| **Published Edge Extension** | Browser Extension & Privacy | Smart Autofill Assistant — live on Microsoft Edge Add-ons Store | 2026 |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ◈ Certifications & Technical Simulations
 
 </div>
 
@@ -306,43 +345,11 @@ Maintained a training pipeline that preprocesses environmental dataset parameter
 
 </div>
 
-
-
----
-
-<div align="center">
-
-## ◈ GitHub Analytics
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshh005&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
-
-</div>
-
-
-
 ---
 
 <div align="center">
 
 ## ◈ Contribution Activity
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santhoshh005&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ Contribution Snake
 
 </div>
 
@@ -368,52 +375,16 @@ Maintained a training pipeline that preprocesses environmental dataset parameter
 current_focus:
   learning:
     - System design principles for scalable web applications
-    - Advanced data structures and algorithm optimization
-    - TypeScript deep dive — generics, decorators, utility types
-    - DevOps fundamentals — Docker, Kubernetes, CI/CD best practices
+    - Data structures and algorithm problem-solving
+    - Modern API design & full-stack architecture patterns
+    - DevOps basics — Docker containers and CI/CD pipelines
 
   building:
-    - Full-stack web applications with modern React and Node.js
-    - Developer productivity tools and CLI utilities
-    - Open source projects to solve everyday developer pain points
-
-  exploring:
-    - WebAssembly for performance-critical browser applications
-    - Edge computing and serverless deployment patterns
-    - AI-assisted development workflows and tooling integration
+    - Full-stack applications with Next.js, FastAPI, and Supabase
+    - Browser extensions with privacy-focused architectures
+    - AI-assisted developer tools and utilities
 
   open_to:
-    - Full-time Software Developer / SDE roles (on-site or remote)
-    - Internships in product engineering and software development
-    - Open source co-maintainership on developer tools
-    - Technical mentorship and community building
-```
-
----
-
-<div align="center">
-
-## ◈ Connect
-
-</div>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-saisanthosh05012006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisanthosh05012006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Santhosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-santhosh-07603828b)
-[![GitHub](https://img.shields.io/badge/GitHub-santhoshh005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshh005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-santhoshportfolio--one.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://santhoshportfolio-one.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best engineers don't just write code — they engineer leverage. Every system, every abstraction, every design decision compounds."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-
-</div>
+    - Software Developer / SDE internships & entry-level roles
+    - Full-stack web development projects
+    - Open source collaboration
