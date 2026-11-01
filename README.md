@@ -266,11 +266,10 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 </div>
 
 **Web Development Intern** &nbsp;·&nbsp; *InAmigos Foundation (IAF)*  
-`June 2026 – Present`
+`June 2026 – July 2026`
 
-- Developing and maintaining web applications with clean, responsive UI components.
-- Working on modern frontend interfaces and component integration.
-- Improving client-side responsiveness, accessibility, and cross-browser layouts.
+- Redesigned and improved official website pages, creating UI mockups and wireframes in Figma.
+- Built responsive, accessible frontend components using HTML, Tailwind CSS, and JavaScript to enhance user experience.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-5B21B6?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -279,11 +278,10 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 ---
 
 **Full-Stack Web Development Intern** &nbsp;·&nbsp; *Thiranex*  
-`June 2026 – Present`
+`June 2026 – July 2026`
 
-- Developing responsive full-stack web applications and integrating RESTful APIs.
-- Crafting clean, user-centric interfaces with React and Tailwind CSS.
-- Collaborating on backend routing, state synchronization, and database integration.
+- Developed full-stack web application features and integrated RESTful APIs using React, Node.js, and MongoDB.
+- Created clean, responsive interfaces and assisted with client-server state synchronization.
 
 ![React](https://img.shields.io/badge/React-5B21B6?style=flat-square&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-4C1D95?style=flat-square&logo=nodedotjs&logoColor=white)
