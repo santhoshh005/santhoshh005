@@ -278,7 +278,7 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 ---
 
 **Full-Stack Web Development Intern** &nbsp;·&nbsp; *Thiranex*  
-`June 2026 – July 2026`
+`May 2026 – June 2026`
 
 - Developed full-stack web application features and integrated RESTful APIs using React, Node.js, and MongoDB.
 - Created clean, responsive interfaces and assisted with client-server state synchronization.
@@ -330,16 +330,20 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 
 <div align="center">
 
-| Certificate / Simulation | Issuer | Year |
+### ◈ Certifications & Technical Credentials
+
+</div>
+
+<div align="center">
+
+| Certificate / Credential | Issuing Organization | Year |
 |:---|:---|:---:|
-| **GenAI Powered Data Analytics Job Simulation** | Tata | 2026 |
+| **Agentic AI Certified Foundations Associate** | Oracle | 2026 |
+| **Advanced Generative AI** | IBM (Career Education Program) | 2026 |
+| **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | 2026 |
+| **Building Applications with GitHub Copilot Agent Mode** | Microsoft | 2026 |
 | **Java Spring Boot Certification** | Infosys Springboard | 2026 |
-| **Data Analytics Job Simulation** | Deloitte Australia | 2026 |
-| **AWS Cloud Practitioner Essentials** | Amazon Web Services | 2026 |
-| **Building with GitHub Copilot Agent Mode** | Microsoft | 2026 |
 | **Software Engineering Job Simulation** | JPMorganChase | 2026 |
-| **AI For Beginners** | HP LIFE | 2025 |
-| **Fusion 360 Workshop** | Autodesk | 2024 |
 
 </div>
 
