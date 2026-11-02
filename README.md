@@ -324,12 +324,6 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 
 <div align="center">
 
-### ◈ Certifications & Technical Simulations
-
-</div>
-
-<div align="center">
-
 ### ◈ Certifications & Technical Credentials
 
 </div>
