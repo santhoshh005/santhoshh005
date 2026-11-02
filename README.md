@@ -312,11 +312,11 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 
 <div align="center">
 
-| Milestone / Recognition | Focus Area | Context | Year |
-|:---|:---|:---|:---:|
-| **Health-a-thon 2026** | Healthcare AI & Decision Support | Built RoundsAI — oncology copilot with Victoria Hospital doctor | 2026 |
-| **Smart India Hackathon (SIH 2026)** | AI Telemetry & Explainable ML | Built SkyGuard AI — 94.94% F1 anomaly detection for IMD AWS | 2026 |
-| **Published Edge Extension** | Browser Extension & Privacy | Smart Autofill Assistant — live on Microsoft Edge Add-ons Store | 2026 |
+| Milestone / Recognition | Focus Area | Context |
+|:---|:---|:---|
+| **Health-a-thon 2026** | Healthcare AI & Decision Support | Built RoundsAI — oncology copilot with Victoria Hospital doctor | 
+| **Smart India Hackathon (SIH 2026)** | AI Telemetry & Explainable ML | Built SkyGuard AI — 94.94% F1 anomaly detection for IMD AWS |
+| **Published Edge Extension** | Browser Extension & Privacy | Smart Autofill Assistant — live on Microsoft Edge Add-ons Store | 
 
 </div>
 
