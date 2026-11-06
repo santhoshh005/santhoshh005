@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Santhosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Full--Stack%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Santhosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Full--Stack%20Engineer%20%7C%20Patent%20Co--inventor&descAlignY=52&descAlign=50" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Crafting+Clean+Code+%7C+Solving+Real+Problems;Software+Developer+%7C+Lifelong+Learner;Building+Products+That+Matter;Turning+Ideas+into+Working+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Patent+Co-inventor+%7C+ZK+Proofs+%26+Document+Security;Building+AI+Copilots%2C+GitHub+Apps+%26+Extensions;Full-Stack+%7C+Next.js+%C2%B7+FastAPI+%C2%B7+TypeScript)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,8 +22,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=santhoshh005&color=7C3AED&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/santhoshh005?label=Followers&style=flat-square&color=6D28D9&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/santhoshh005?label=Total%20Stars&style=flat-square&color=5B21B6&logo=github)
 
 </div>
 
@@ -44,9 +42,9 @@ Philosophy  : Write clean, readable code. Build software that solves problems fo
 
 I am a **Software Developer** currently pursuing my **Integrated M.Tech in Software Engineering** at **Vellore Institute of Technology (VIT)**. I enjoy building full-stack web applications, exploring AI integrations, and creating developer productivity tools.
 
-My experience includes building responsive frontends with **React & Next.js**, backend APIs with **Node.js, Express & FastAPI**, and working with **PostgreSQL, Supabase, and MongoDB**. I also have hands-on experience developing Chromium browser extensions and building AI-assisted features with Google Gemini and Whisper.
+My experience includes building responsive frontends with **React & Next.js**, backend APIs with **Node.js, Express & FastAPI**, and working with **PostgreSQL and Supabase**. I also have hands-on experience developing Chromium browser extensions and building AI-assisted features with Google Gemini and Whisper.
 
-I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart India Hackathon 2026**), and I prioritize clean code, test coverage, and continuous learning.
+I'm a co-inventor on a **published Indian patent application** (IN202641127062 A1) for proof-bound document watermarking, and my team's RoundsAI was **shortlisted for Phase 2 of Health-a-thon 2026 (Top 150 teams)**. I prioritize clean code, test coverage, and continuous learning.
 
 <br/>
 
@@ -55,7 +53,6 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 ![Full Time Roles](https://img.shields.io/badge/Full--Time%20Roles-Software%20Developer%20%7C%20SDE-7C3AED?style=flat-square)
 ![Remote](https://img.shields.io/badge/Remote-Open%20to%20Relocation-6D28D9?style=flat-square)
 ![Internships](https://img.shields.io/badge/Internships-Engineering%20%7C%20Product-5B21B6?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-Collaboration-4C1D95?style=flat-square)
 
 ---
 
@@ -75,32 +72,11 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 
 **Backend, Databases & Cloud**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,supabase,firebase,mongodb,prisma&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,supabase,firebase,prisma&theme=dark)](https://skillicons.dev)
 
 **DevOps & Developer Tools**
 
 [![Tooling](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark)](https://skillicons.dev)
-
----
-
-<div align="center">
-
-## ◈ Engineering Expertise
-
-</div>
-
-<div align="center">
-
-| Domain | Proficiency | Key Highlights |
-|:---|:---:|:---|
-| **Web Development** | ████████░░░░ Proficient | React, Next.js, TypeScript, Tailwind CSS, responsive layouts |
-| **Backend & APIs** | ███████░░░░░ Intermediate | Node.js, Express, FastAPI, RESTful routing, JWT authentication |
-| **Databases & ORM** | ███████░░░░░ Intermediate | PostgreSQL, Supabase, MongoDB, Prisma ORM, basic schema design |
-| **Browser Extensions** | ███████░░░░░ Intermediate | Chrome Manifest V3, content/background scripts, Web Crypto API |
-| **AI Tooling & Integration** | ██████░░░░░░ Working Knowledge | Gemini API (structured outputs), Whisper STT, basic ML models |
-| **Testing & Tooling** | ██████░░░░░░ Working Knowledge | Vitest, Pytest, Git workflows, GitHub Actions, Docker basics |
-
-</div>
 
 ---
 
@@ -111,7 +87,30 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 </div>
 
 <details open>
-<summary><b>⟡ &nbsp;RoundsAI — Inpatient Oncology Ward Copilot &nbsp;🏆 Health-a-thon 2026</b></summary>
+<summary><b>⟡ &nbsp;SAME-H — Proof-Bound Document Watermarking &amp; Leak Attribution &nbsp;📜 Patent Published</b></summary>
+
+<br/>
+
+> Document-security system that cryptographically ties every document release to the exact authorized access event, so a leaked copy can later be traced back to who accessed it, when, and under which policy. Published as Indian Patent Application **IN202641127062 A1** (Journal 44/2026, 30 Oct 2026); applicant: Vellore Institute of Technology.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Status** | Indian Patent Application No. 202641127062 · Published 30 Oct 2026 · Co-inventor (team of 5) |
+| **Stack** | Circom · SnarkJS (Groth16) · Ethereum smart contracts · Node.js · Express · PostgreSQL · React · TypeScript |
+| **Core Idea** | One Poseidon context hash (H) reused across the zero-knowledge access proof, HKDF-SHA256 watermark key, on-chain authorization record and forensic check |
+| **Forensics** | Extracts the watermark from a recovered file and matches it to on-chain commitments · 5 explicit verdicts (MATCH, NO_MATCH, NO_AUTHORIZATION_RECORD, MULTIPLE_MATCHES, PARTIAL_EVIDENCE_UNAVAILABLE) |
+| **Security** | AES-256-GCM encryption at rest · Argon2id passwords · Replay and expiry rejection on-chain · Organization-scoped RBAC |
+
+</div>
+
+<br/>
+
+</details>
+
+<details open>
+<summary><b>⟡ &nbsp;RoundsAI — Inpatient Oncology Ward Copilot &nbsp;· Health-a-thon 2026, Top 150</b></summary>
 
 <br/>
 
@@ -123,7 +122,7 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 |:---|:---|
 | **Stack** | Next.js 15 · FastAPI · Python · TypeScript · Gemini 2.5 Flash · faster-whisper · Supabase |
 | **Live MVP** | [rounds-ai-umber.vercel.app](https://rounds-ai-umber.vercel.app/) |
-| **Demo Video** | [YouTube Walkthrough](https://youtu.be/Kia1C-a0QLk) |
+| **Demo Video** | [YouTube Walkthrough](https://youtu.be/DSOc0GQX6lI) |
 | **AI Pipeline** | On-device Whisper STT (zero cloud audio egress) · Gemini Vision OCR · 120+ oncology phonetic normalizer |
 | **Clinical** | CTCAE v5.0 myelosuppression grading · IDSA/ASCO 2018 febrile neutropenia sentinels · Hallucination prevention guards |
 | **Testing** | 134 automated tests across Python (pytest) and TypeScript test suites |
@@ -143,7 +142,7 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 
 <br/>
 
-> A production GitHub App that automatically reviews pull requests upon opening/syncing, analyzes diffs for security vulnerabilities and architectural anti-patterns, generates structured inline comments, and computes overall risk scores using Google Gemini.
+> A live GitHub App that automatically reviews pull requests upon opening/syncing, analyzes diffs for security vulnerabilities and architectural anti-patterns, generates structured inline comments, and computes overall risk scores using Google Gemini.
 
 <div align="center">
 
@@ -152,6 +151,7 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 | **Stack** | Next.js 16 · React 19 · TypeScript · Supabase · Gemini 3.8 Flash · Octokit |
 | **Security** | HMAC-SHA256 webhook verification · Supabase RLS on every table · Zod-validated AI output · Timing-safe comparisons |
 | **Architecture** | Hybrid serverless: Vercel `waitUntil` for immediate review + GitHub Actions cron fallback · Atomic Postgres rate limiting |
+| **Speed** | A full review is posted in about 1–2 minutes when Gemini is available |
 | **Testing** | Vitest unit tests + Playwright E2E tests |
 | **Features** | Auto-reviews on PR open/sync · Inline comments with risk scores · Multi-model Gemini fallback · Daily quota tracking |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/santhoshh005/PR_Pilot) |
@@ -163,7 +163,7 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 </details>
 
 <details>
-<summary><b>⟡ &nbsp;Smart Autofill Assistant — Published on Microsoft Edge Store</b></summary>
+<summary><b>⟡ &nbsp;Smart Autofill Assistant — Published on Microsoft Edge Store &nbsp;· 68 Users</b></summary>
 
 <br/>
 
@@ -174,7 +174,7 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 | Attribute | Details |
 |:---|:---|
 | **Stack** | TypeScript · React · Vite · Manifest V3 · Web Crypto API · PDF.js |
-| **Published** | [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/aelekoeomibgicicopockedkjdcdlmoo) |
+| **Published** | [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/aelekoeomibgicicopockedkjdcdlmoo) · 68 users |
 | **Security** | Local AES-GCM encrypted vault · User-triggered autofill · Passwords, OTPs, payment fields blocked |
 | **AI** | Optional Gemini/OpenAI semantic matching (disabled by default, user-configured) |
 | **Features** | Multiple named profiles · Resume/portfolio import · In-page review panel · Safety blocking |
@@ -187,7 +187,7 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 </details>
 
 <details>
-<summary><b>⟡ &nbsp;SkyGuard AI — ML Anomaly Detection for Weather Stations &nbsp;🏆 SIH 2026</b></summary>
+<summary><b>⟡ &nbsp;SkyGuard AI — ML Anomaly Detection for Weather Stations &nbsp;· SIH 2026</b></summary>
 
 <br/>
 
@@ -268,25 +268,11 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 **Web Development Intern** &nbsp;·&nbsp; *InAmigos Foundation (IAF)*  
 `June 2026 – July 2026`
 
-- Redesigned and improved official website pages, creating UI mockups and wireframes in Figma.
-- Built responsive, accessible frontend components using HTML, Tailwind CSS, and JavaScript to enhance user experience.
+- Redesigned the foundation website's landing (hero), login and contributor pages and presented the new design to the team.
+- Collected and structured data on 10 partner NGOs and built every redesign mockup in Figma.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-5B21B6?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-4C1D95?style=flat-square&logo=html5&logoColor=white)
-
----
-
-**Full-Stack Web Development Intern** &nbsp;·&nbsp; *Thiranex*  
-`May 2026 – June 2026`
-
-- Developed full-stack web application features and integrated RESTful APIs using React, Node.js, and MongoDB.
-- Created clean, responsive interfaces and assisted with client-server state synchronization.
-
-![React](https://img.shields.io/badge/React-5B21B6?style=flat-square&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-4C1D95?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-3B0764?style=flat-square&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-2E0854?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-6D28D9?style=flat-square&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-5B21B6?style=flat-square)
 
 ---
 
@@ -297,10 +283,9 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 </div>
 
 **Integrated M.Tech in Software Engineering** &nbsp;·&nbsp; *Vellore Institute of Technology (VIT)*  
-`2023 – 2028`
+`2023 – 2028` &nbsp;·&nbsp; **CGPA: 8.91 / 10**
 
-- Specializing in Software Engineering and Computer Science fundamentals.
-- Relevant Coursework: Object Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, and Software System Architecture.
+- Relevant Coursework: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, Object-Oriented Programming, Design Patterns, Software System Architecture.
 
 ---
 
@@ -314,9 +299,10 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 
 | Milestone / Recognition | Focus Area | Context |
 |:---|:---|:---|
-| **Health-a-thon 2026** | Healthcare AI & Decision Support | Built RoundsAI — oncology copilot with Victoria Hospital doctor | 
+| **Published Patent Application** | Information Security & Cryptography | IN202641127062 A1 — SAME-H proof-bound document watermarking (co-inventor) |
+| **Health-a-thon 2026 — Top 150** | Healthcare AI & Decision Support | Shortlisted for Phase 2 with RoundsAI — oncology copilot built with a Victoria Hospital doctor |
 | **Smart India Hackathon (SIH 2026)** | AI Telemetry & Explainable ML | Built SkyGuard AI — 94.94% F1 anomaly detection for IMD AWS |
-| **Published Edge Extension** | Browser Extension & Privacy | Smart Autofill Assistant — live on Microsoft Edge Add-ons Store | 
+| **Published Edge Extension** | Browser Extension & Privacy | Smart Autofill Assistant — live on Microsoft Edge Add-ons Store, 68 users | 
 
 </div>
 
@@ -335,9 +321,7 @@ I've worked on collaborative hackathon builds (**Health-a-thon 2026**, **Smart I
 | **Agentic AI Certified Foundations Associate** | Oracle | 2026 |
 | **Advanced Generative AI** | IBM (Career Education Program) | 2026 |
 | **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | 2026 |
-| **Building Applications with GitHub Copilot Agent Mode** | Microsoft | 2026 |
 | **Java Spring Boot Certification** | Infosys Springboard | 2026 |
-| **Software Engineering Job Simulation** | JPMorganChase | 2026 |
 
 </div>
 
@@ -383,4 +367,4 @@ current_focus:
   open_to:
     - Software Developer / SDE internships & entry-level roles
     - Full-stack web development projects
-    - Open source collaboration
+```
