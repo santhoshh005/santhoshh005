@@ -266,7 +266,7 @@ I'm a co-inventor on a **published Indian patent application** (IN202641127062 A
 </div>
 
 **Web Development Intern** &nbsp;·&nbsp; *InAmigos Foundation (IAF)*  
-`June 2026 – July 2026`
+`June 2026`
 
 - Redesigned the foundation website's landing (hero), login and contributor pages and presented the new design to the team.
 - Collected and structured data on 10 partner NGOs and built every redesign mockup in Figma.
